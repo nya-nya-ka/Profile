@@ -116,7 +116,7 @@ body {
   margin: 0; /* 余白をリセット */
   text-align: right; /* テキストを右揃え */
   bottom: 500px; /* 画面下からの距離 */
-  right: 180px; /* 画面右からの距離 */
+  right: 130px; /* 画面右からの距離 */
 }
 
 
